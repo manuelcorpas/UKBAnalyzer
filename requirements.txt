@@ -1,8 +1,0 @@
-numpy==1.24.3
-pandas==1.5.3
-scholarly==1.7.11
-spacy==3.5.3
-scikit-learn==1.2.2
-plotly==5.13.1
-networkx==2.8.4
-python-dotenv==0.21.1

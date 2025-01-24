@@ -29,6 +29,10 @@ env/
 data/
 outputs/
 visualizations/
+RESULTS/
+ARCHIVE/
+ukb_schema/
+
 
 # Logs
 *.log

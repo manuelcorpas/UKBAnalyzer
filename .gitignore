@@ -31,8 +31,10 @@ outputs/
 visualizations/
 RESULTS/
 ARCHIVE/
-ukb_schema/
-
+ukb_schemas/
+publication.xml
+publication_cleaned.xml
+ukb_schema.csv
 
 # Logs
 *.log
